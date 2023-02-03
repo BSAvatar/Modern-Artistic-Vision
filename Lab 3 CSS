@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color: rgb(122, 140, 146);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+  } /*This controls the color of the site*/
+
+  
+  h1 {
+    color: rgb(6, 29, 131);
+    text-align: center;
+    font-size: 80px;
+  }/*This makes the main title bigg and changes its color*/
+  
+  p {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+  } /* This controls the font and size of the main paragraph*/
+
+  h2{
+    font-size: 50px
+  }
+/*Art works title*/
+
+  b2{ 
+    font-size: 30px
+}
+/*Works like Title*/
+
+  div {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  }
